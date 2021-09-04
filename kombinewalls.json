@@ -1,0 +1,97 @@
+[
+	{
+		"name": "Pixel 6 Blue",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(10)%20(1).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(10)%20(1).jpg",
+		"dimensions": "3080x3920",
+		"copyright": "Free",
+		"collections": "abstract,stock,featured",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pixel 6 Purple",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(3).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(3).jpg",
+		"dimensions": "3080x3920",
+		"copyright": "Free",
+		"collections": "abstract,stock,featured",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pixel 6 Beige",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(4).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(4).jpg",
+		"dimensions": "3080x3920",
+		"copyright": "Free",
+		"collections": "abstract,stock,featured",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pixel 6 Dark Red",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(6).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(6).jpg",
+		"dimensions": "3080x3920",
+		"copyright": "Free",
+		"collections": "abstract,stock,featured",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pixel 6 Pink",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837.jpg",
+		"dimensions": "3080x3920",
+		"copyright": "Free",
+		"collections": "abstract,stock,featured",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pixel 6 Renders",
+		"author": "Ian Zelbo",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Pix6_rend_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Pix6_rend_1.png",
+		"dimensions": "1440x3120",
+		"copyright": "Credits to it's creator",
+		"collections": "abstract,stock",
+		"downloadable": true
+	},
+	{
+		"name": "Dark Red Fluids",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/alaksiej-%C4%8Darankievi%C4%8D-QimEwRMvK6w_1628789806654.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/alaksiej-%C4%8Darankievi%C4%8D-QimEwRMvK6w_1628789806654.png?raw=true",
+		"dimensions": "2327x3490",
+		"collections": "featured,abstract,fluid",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Fluids Mix",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628772374004.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628772374004.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true,
+		"downloadable": false
+	},
+  {
+		"name": "Abstract Pink Droplets",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20pink%20droplets.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20pink%20droplets.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,gradient",
+		"featured": true,
+		"downloadable": false
+	}
+]
