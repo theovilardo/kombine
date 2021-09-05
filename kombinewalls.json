@@ -1,97 +1,94 @@
 [
 	{
-		"name": "Pixel 6 Blue",
-		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(10)%20(1).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(10)%20(1).jpg",
-		"dimensions": "3080x3920",
+		"name": "Blue Mountain Sky",
+		"author": "Wes Albright",
+		"url": "https://raw.githubusercontent.com/theovilardo/kombine/main/ASUS%20Zenfone%208%20Flip5486.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/kombine/main/ASUS%20Zenfone%208%20Flip5486.jpg",
+		"dimensions": "1080x2400",
 		"copyright": "Free",
 		"collections": "abstract,stock,featured",
 		"featured": true,
-		"downloadable": false
+		"downloadable": true
 	},
 	{
-		"name": "Pixel 6 Purple",
-		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(3).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(3).jpg",
-		"dimensions": "3080x3920",
+		"name": "Rare Rocks",
+		"author": "Lizzy Tagliani",
+		"url": "https://raw.githubusercontent.com/theovilardo/kombine/main/ASUS%20Zenfone%208%20Flip5488.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/kombine/main/ASUS%20Zenfone%208%20Flip5488.jpg",
+		"dimensions": "1080x2400",
 		"copyright": "Free",
 		"collections": "abstract,stock,featured",
 		"featured": true,
-		"downloadable": false
+		"downloadable": true
 	},
 	{
-		"name": "Pixel 6 Beige",
-		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(4).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(4).jpg",
-		"dimensions": "3080x3920",
+		"name": "Lake Earth View",
+		"author": "Mongul",
+		"url": "https://raw.githubusercontent.com/theovilardo/kombine/main/ASUS%20Zenfone%208%20Flip5492.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/kombine/main/ASUS%20Zenfone%208%20Flip5492.jpg",
+		"dimensions": "1080x2400",
 		"copyright": "Free",
 		"collections": "abstract,stock,featured",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
-		"name": "Pixel 6 Dark Red",
-		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(6).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(6).jpg",
-		"dimensions": "3080x3920",
+		"name": "Android 12 Flowers Dark",
+		"author": "D10S",
+		"url": "https://raw.githubusercontent.com/theovilardo/kombine/main/Android%20125495.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/kombine/main/Android%20125495.png",
+		"dimensions": "1080x1920",
 		"copyright": "Free",
 		"collections": "abstract,stock,featured",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
-		"name": "Pixel 6 Pink",
-		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837.jpg",
-		"dimensions": "3080x3920",
+		"name": "Triangle Shift",
+		"author": "Homer10",
+		"url": "https://raw.githubusercontent.com/theovilardo/kombine/main/Android%20125496.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/kombine/main/Android%20125496.png",
+		"dimensions": "1137x2340",
 		"copyright": "Free",
 		"collections": "abstract,stock,featured",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
-		"name": "Pixel 6 Renders",
-		"author": "Ian Zelbo",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Pix6_rend_1.png",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Pix6_rend_1.png",
-		"dimensions": "1440x3120",
+		"name": "Android 12 Flowers Green",
+		"author": "Mr. Robato",
+		"url": "https://raw.githubusercontent.com/theovilardo/kombine/main/Android%20125497.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/kombine/main/Android%20125497.jpg",
+		"dimensions": "1038x2347",
 		"copyright": "Credits to it's creator",
 		"collections": "abstract,stock",
 		"downloadable": true
 	},
 	{
-		"name": "Dark Red Fluids",
-		"author": "Me",
-		"url": "https://github.com/theovilardo/wallmaker/blob/main/alaksiej-%C4%8Darankievi%C4%8D-QimEwRMvK6w_1628789806654.png?raw=true",
-		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/alaksiej-%C4%8Darankievi%C4%8D-QimEwRMvK6w_1628789806654.png?raw=true",
-		"dimensions": "2327x3490",
+		"name": "Red Blobs",
+		"author": "Apel",
+		"url": "https://raw.githubusercontent.com/theovilardo/kombine/main/Apple%20Carplay5768.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/kombine/main/Apple%20Carplay5768.jpg",
+		"dimensions": "2048x2048",
 		"collections": "featured,abstract,fluid",
 		"featured": true,
-		"downloadable": false
+		"downloadable": true
 	},
 	{
-		"name": "Fluids Mix",
+		"name": "Yellow Green",
 		"author": "Me",
-		"url": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628772374004.png?raw=true",
-		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628772374004.png?raw=true",
-		"dimensions": "2328x3489",
+		"url": "https://raw.githubusercontent.com/theovilardo/kombine/main/Coolpad%20Dazen%20x73781.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/kombine/main/Coolpad%20Dazen%20x73781.jpg",
+		"dimensions": "2160x1920",
 		"collections": "featured,abstract,fluid",
 		"featured": true,
-		"downloadable": false
+		"downloadable": true
 	},
-  {
-		"name": "Abstract Pink Droplets",
-		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20pink%20droplets.png",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20pink%20droplets.png",
-		"dimensions": "1080x2400",
+	{
+		"name": "Pixel Colors 1",
+		"author": "Gugul",
+		"url": "https://raw.githubusercontent.com/theovilardo/kombine/main/Google%20Pixel%2043439.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/kombine/main/Google%20Pixel%2043439.png",
+		"dimensions": "1080x2160",
 		"collections": "featured,abstract,gradient",
 		"featured": true,
-		"downloadable": false
+		"downloadable": true
 	}
 ]
